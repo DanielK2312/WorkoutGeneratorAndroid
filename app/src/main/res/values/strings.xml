@@ -2,4 +2,15 @@
     <string name="app_name">WorkoutGenerator</string>
     <string name="splash_img">splash img</string>
     <string name="splashTitleTxt">Workout Generator App</string>
+    <string name="titleTxt">Workout Form</string>
+    <string name="ragGrp1Title">Select Experience Level</string>
+    <string name="beginnerTxt">Beginner</string>
+    <string name="intermediateTxt">Intermediate</string>
+    <string name="advancedTxt">Advanced</string>
+    <string name="radGrp2TitleTxt">Select Number of Days to Workout</string>
+    <string name="threeTxt">Three</string>
+    <string name="fourTxt">Four</string>
+    <string name="fiveTxt">Five</string>
+    <string name="sixTxt">Six</string>
+    <string name="btnTxt">Generate Workout</string>
 </resources>
