@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WorkoutGenerator</string>
+    <string name="splash_img">splash img</string>
+    <string name="splashTitleTxt">Workout Generator App</string>
 </resources>
