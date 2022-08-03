@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         };
+        // set listener
         btnWorkout.setOnClickListener(btnWorkoutListener);
     }
 }

@@ -17,6 +17,7 @@ public class SplashActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
+        // set splash activity for 5 seconds
         TimerTask task = new TimerTask() {
             @Override
             public void run() {
