@@ -1,0 +1,8 @@
+user guide
+
+select level and frequency of workouts to generate a workout plan
+
+options include:
+Beginner - 3 or 4 days per week
+Intermediate - 3, 4, or 5 days per week
+Advanced - 5 or 6 days per week
